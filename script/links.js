@@ -1,4 +1,5 @@
 var  links = {
+    1077: "https://www.artstation.com/xiaodezhu",
     1076: "https://www.artstation.com/kriskelly3d",
     1075: "https://www.artstation.com/artxiaofei",
     1074: "https://www.artstation.com/yileina",
