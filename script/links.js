@@ -1,4 +1,6 @@
 var  links = {
+    1080: "https://www.artstation.com/chen-w",
+    1079: "https://www.artstation.com/andreykatharsis",
     1078: "https://www.artstation.com/doomdz011",
     1077: "https://www.artstation.com/xiaodezhu",
     1076: "https://www.artstation.com/kriskelly3d",
